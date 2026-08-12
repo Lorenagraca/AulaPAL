@@ -12,3 +12,4 @@ C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 10 decrecente\1 a 10 decrecente\obj\Debug
 C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 10 decrecente\1 a 10 decrecente\obj\Debug\net10.0\1 a 10 decrecente.pdb
 C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 10 decrecente\1 a 10 decrecente\obj\Debug\net10.0\1 a 10 decrecente.genruntimeconfig.cache
 C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 10 decrecente\1 a 10 decrecente\obj\Debug\net10.0\ref\1 a 10 decrecente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 10 decrecente\1 a 10 decrecente\obj\Debug\net10.0\1 a 10 decrecente.sourcelink.json
