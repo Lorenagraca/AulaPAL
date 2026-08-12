@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\bin\Debug\net10.0\valor de N.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\bin\Debug\net10.0\valor de N.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\bin\Debug\net10.0\valor de N.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\bin\Debug\net10.0\valor de N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\bin\Debug\net10.0\valor de N.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\refint\valor de N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\ref\valor de N.dll

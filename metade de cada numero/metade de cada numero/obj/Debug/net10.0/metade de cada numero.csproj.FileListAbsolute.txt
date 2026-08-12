@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\bin\Debug\net10.0\metade de cada numero.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\bin\Debug\net10.0\metade de cada numero.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\bin\Debug\net10.0\metade de cada numero.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\bin\Debug\net10.0\metade de cada numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\bin\Debug\net10.0\metade de cada numero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\refint\metade de cada numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\ref\metade de cada numero.dll

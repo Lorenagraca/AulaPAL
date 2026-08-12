@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\bin\Debug\net10.0\1 a 20.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\bin\Debug\net10.0\1 a 20.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\bin\Debug\net10.0\1 a 20.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\bin\Debug\net10.0\1 a 20.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\bin\Debug\net10.0\1 a 20.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\refint\1 a 20.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\1 a 20.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\1 a 20\1 a 20\obj\Debug\net10.0\ref\1 a 20.dll

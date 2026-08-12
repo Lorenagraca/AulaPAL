@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\bin\Debug\net10.0\exemplo2-for.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\bin\Debug\net10.0\exemplo2-for.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\bin\Debug\net10.0\exemplo2-for.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\bin\Debug\net10.0\exemplo2-for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\bin\Debug\net10.0\exemplo2-for.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\refint\exemplo2-for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\exemplo2-for.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\exemplo2-for\exemplo2-for\obj\Debug\net10.0\ref\exemplo2-for.dll
