@@ -1,4 +1,4 @@
-﻿double n, s;
+﻿double n, s=0;
 
 for(int i = 1; 1<= 10; i++ )
 {
@@ -7,4 +7,6 @@ for(int i = 1; 1<= 10; i++ )
     n = double.Parse(Console.ReadLine());
 
     s = n + s;
+
+    Console.WriteLine(i);
 }

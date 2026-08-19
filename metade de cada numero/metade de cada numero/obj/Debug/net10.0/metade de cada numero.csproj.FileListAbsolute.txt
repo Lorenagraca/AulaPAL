@@ -12,3 +12,4 @@ C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\o
 C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.pdb
 C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.genruntimeconfig.cache
 C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\ref\metade de cada numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\metade de cada numero\metade de cada numero\obj\Debug\net10.0\metade de cada numero.sourcelink.json

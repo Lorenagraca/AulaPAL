@@ -12,3 +12,4 @@ C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\refin
 C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.pdb
 C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.genruntimeconfig.cache
 C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\ref\valor de N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\valor de N\valor de N\obj\Debug\net10.0\valor de N.sourcelink.json

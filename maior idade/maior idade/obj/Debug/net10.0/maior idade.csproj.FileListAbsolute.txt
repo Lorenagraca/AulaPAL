@@ -12,3 +12,4 @@ C:\Users\fatec-ams-ds1\Desktop\PAL\maior idade\maior idade\obj\Debug\net10.0\ref
 C:\Users\fatec-ams-ds1\Desktop\PAL\maior idade\maior idade\obj\Debug\net10.0\maior idade.pdb
 C:\Users\fatec-ams-ds1\Desktop\PAL\maior idade\maior idade\obj\Debug\net10.0\maior idade.genruntimeconfig.cache
 C:\Users\fatec-ams-ds1\Desktop\PAL\maior idade\maior idade\obj\Debug\net10.0\ref\maior idade.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\maior idade\maior idade\obj\Debug\net10.0\maior idade.sourcelink.json
